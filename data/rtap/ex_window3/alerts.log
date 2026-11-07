@@ -1,0 +1,4 @@
+rtap/alert_service.py:281: DeprecationWarning: value_deserializer does not implement kafka.serializer.Deserializer
+  consumer = KafkaConsumer(TOPIC_EVENTS, TOPIC_AGG, bootstrap_servers=BOOTSTRAP, auto_offset_reset="earliest",
+Сервис тревог готов за 5.4 с (разделов назначено: 7)
+Обработано: 775 записей станций, 131 региональных окон

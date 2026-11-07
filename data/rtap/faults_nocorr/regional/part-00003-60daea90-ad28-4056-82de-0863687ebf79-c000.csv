@@ -1,0 +1,2 @@
+window_start,window_end,n_messages,n_stations,pressure_mean,pressure_median,pressure_std,temperature_mean,humidity_mean,cloud_mean,rain_share,precip_max,gusts_max,producer_lag_ms,station_pressure,emitted_at
+2025-10-16T00:00:00.000Z,2025-10-17T00:00:00.000Z,6,6,1026.3333333333333,1025.2,2.473593876663401,8.583333333333334,73.83333333333333,53.5,0.0,0.0,28.1,0.0,"{""soroca|2025-10-16"":1024.8,""balti|2025-10-16"":1025.0,""ungheni|2025-10-16"":1025.2,""comrat|2025-10-16"":1025.7,""chisinau|2025-10-16"":1031.3,""cahul|2025-10-16"":1026.0}",2026-10-24T14:01:52.443Z

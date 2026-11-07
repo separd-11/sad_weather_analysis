@@ -1,0 +1,3 @@
+window_start,window_end,station,n_messages,producer_lag_ms,first_date,last_date,batch_id
+2026-10-24T13:57:50.000Z,2026-10-24T13:58:00.000Z,balti,20,0.05,2025-12-10,2025-12-29,74
+2026-10-24T13:57:50.000Z,2026-10-24T13:58:00.000Z,cahul,20,0.1,2025-12-10,2025-12-29,74

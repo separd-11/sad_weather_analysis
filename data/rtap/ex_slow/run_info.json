@@ -1,0 +1,20 @@
+{
+ "out": "data/rtap/ex_slow",
+ "producer_args": [
+  "--start",
+  "2024-01-01",
+  "--end",
+  "2024-04-30",
+  "--speed",
+  "0.2"
+ ],
+ "window_days": 1,
+ "slide_days": 1,
+ "watermark_days": 2,
+ "tp_window_sec": 10,
+ "trigger_sec": 1.0,
+ "no_correct": false,
+ "replay_seconds": 55.5,
+ "spark_rc": 0,
+ "alerts_rc": 0
+}

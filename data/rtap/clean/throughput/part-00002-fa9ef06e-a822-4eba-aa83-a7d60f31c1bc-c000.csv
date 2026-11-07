@@ -1,0 +1,2 @@
+window_start,window_end,station,n_messages,producer_lag_ms,first_date,last_date,batch_id
+2026-10-24T13:57:10.000Z,2026-10-24T13:57:20.000Z,ungheni,51,0.1568627450980392,2024-11-05,2024-12-25,37

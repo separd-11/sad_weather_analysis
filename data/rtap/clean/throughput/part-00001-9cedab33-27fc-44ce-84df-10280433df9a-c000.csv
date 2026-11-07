@@ -1,0 +1,3 @@
+window_start,window_end,station,n_messages,producer_lag_ms,first_date,last_date,batch_id
+2026-10-24T13:56:50.000Z,2026-10-24T13:57:00.000Z,chisinau,80,0.075,2024-04-19,2024-07-07,20
+2026-10-24T13:56:50.000Z,2026-10-24T13:57:00.000Z,soroca,80,0.175,2024-04-19,2024-07-07,20

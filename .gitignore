@@ -1,0 +1,32 @@
+# environment and caches
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# assistant / editor service files
+.claude/
+CLAUDE.md
+.vscode/
+.idea/
+
+# course materials of the teacher and personal study notes (not part of the project code)
+docs/
+deliverables/
+
+# large or temporary run data
+data/kafka/
+data/rtap/dbg/
+data/rtap/smoke/
+data/rtap/live/
+data/rtap/*.log
+report/build/
+data/rtap/*/checkpoints/
+data/rtap/**/.*.crc
+data/rtap/**/_SUCCESS
+data/rtap/*/spark.log
+
+# the report is submitted separately, not part of the code
+report/
+figures/app/

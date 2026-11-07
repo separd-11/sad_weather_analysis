@@ -1,0 +1,2 @@
+window_start,window_end,station,n_messages,producer_lag_ms,first_date,last_date,batch_id
+2026-10-24T13:57:00.000Z,2026-10-24T13:57:10.000Z,chisinau,30,0.06666666666666667,2024-07-28,2024-08-26,25

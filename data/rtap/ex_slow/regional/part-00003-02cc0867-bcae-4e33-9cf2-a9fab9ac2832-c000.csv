@@ -1,0 +1,2 @@
+window_start,window_end,n_messages,n_stations,pressure_mean,pressure_median,pressure_std,temperature_mean,humidity_mean,cloud_mean,rain_share,precip_max,gusts_max,producer_lag_ms,station_pressure,emitted_at
+2024-03-24T00:00:00.000Z,2024-03-25T00:00:00.000Z,6,6,1004.5500000000001,1004.3,0.3781534080237964,9.583333333333334,71.66666666666667,72.16666666666667,1.0,13.5,45.4,0.0,"{""soroca|2024-03-24"":1004.2,""ungheni|2024-03-24"":1004.3,""balti|2024-03-24"":1004.2,""comrat|2024-03-24"":1005.0,""chisinau|2024-03-24"":1004.6,""cahul|2024-03-24"":1005.0}",2026-10-24T14:03:07.159Z

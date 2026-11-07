@@ -1,0 +1,2 @@
+window_start,window_end,station,n_messages,producer_lag_ms,first_date,last_date,batch_id
+2026-10-24T13:56:40.000Z,2026-10-24T13:56:50.000Z,soroca,50,0.1,2024-01-10,2024-02-28,7

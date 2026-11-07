@@ -1,0 +1,3 @@
+window_start,window_end,station,n_messages,producer_lag_ms,first_date,last_date,batch_id
+2026-10-24T14:01:00.000Z,2026-10-24T14:01:10.000Z,balti,50,0.14,2024-06-06,2024-07-25,22
+2026-10-24T14:01:00.000Z,2026-10-24T14:01:10.000Z,soroca,50,0.08,2024-06-06,2024-07-25,22

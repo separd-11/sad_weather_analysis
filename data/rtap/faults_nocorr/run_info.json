@@ -1,0 +1,30 @@
+{
+ "out": "data/rtap/faults_nocorr",
+ "producer_args": [
+  "--start",
+  "2024-01-01",
+  "--end",
+  "2025-12-31",
+  "--speed",
+  "0.1",
+  "--bias",
+  "chisinau:6:2024-07-01",
+  "--noise",
+  "balti:0.75:2024-09-01:2024-10-31",
+  "--late",
+  "cahul:0.05:3",
+  "--drop",
+  "comrat:0.02",
+  "--drop-field",
+  "ungheni:wind_direction_10m_dominant:2025-03-01"
+ ],
+ "window_days": 1,
+ "slide_days": 1,
+ "watermark_days": 2,
+ "tp_window_sec": 10,
+ "trigger_sec": 1.0,
+ "no_correct": true,
+ "replay_seconds": 103.9,
+ "spark_rc": 0,
+ "alerts_rc": 0
+}

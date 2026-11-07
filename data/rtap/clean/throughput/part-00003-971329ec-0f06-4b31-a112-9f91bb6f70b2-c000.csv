@@ -1,0 +1,2 @@
+window_start,window_end,station,n_messages,producer_lag_ms,first_date,last_date,batch_id
+2026-10-24T13:56:50.000Z,2026-10-24T13:57:00.000Z,comrat,20,0.2,2024-04-19,2024-05-08,14
